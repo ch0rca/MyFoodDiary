@@ -77,7 +77,7 @@ python main.py
 
 ## 🔑 Notion API Setup
 
-<img width="1038" alt="Notion API" src="https://user-images.githubusercontent.com/50176033/203196346-1e129121-4c9d-45c5-a2c5-c00d3d76d10c.png"> 
+<img width="500" alt="Notion API" src="https://user-images.githubusercontent.com/50176033/203196346-1e129121-4c9d-45c5-a2c5-c00d3d76d10c.png"> 
 
 ### 1. Create Integration
 
